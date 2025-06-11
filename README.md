@@ -239,6 +239,9 @@ conda install cmake ninja
 pip install -r requirements.txt
 ```
 
+# Optional: prepare an offline-ready development environment
+./setup-dev.sh
+
 **On Linux**
 
 ```bash
